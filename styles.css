@@ -1,0 +1,44 @@
+body {
+    color:black;
+    text-align: center;
+}
+.tile {
+    height: 200px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.tile-body {
+    background-color: hotpink;
+    width: 100%;
+    height: 100%;
+}
+.startTileColor {
+    background-color: hotpink;
+}
+.endTileColor{
+    background-color: gray;
+}
+.red-background{
+    background-color: red;
+}
+.green-background{
+    background-color: green;
+}
+.yellow-background{
+    background-color: yellow;
+}
+.blue-background{
+    background-color: blue;
+}
+.orange-background{
+    background-color: orange;
+}
+.brown-background{
+    background-color: brown;
+}
+.darkcyan-background{
+    background-color: darkcyan;
+}
+.lightseagreen-background{
+    background-color: lightseagreen;
+}
